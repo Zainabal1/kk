@@ -1,0 +1,16 @@
+<template>
+
+  <router-view/>
+</template>
+
+<style lang="scss">
+
+*{
+  margin: 0;
+  padding:0;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
